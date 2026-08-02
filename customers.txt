@@ -1,0 +1,16 @@
+1,Rahul Sharma,rahul123@gmail.com,9876543210,Lead
+2,Priya Patel,priya456@gmail.com,9123456789,Active
+3,Amit Verma,amit789@gmail.com,9988776655,VIP
+4,Neha Singh,neha001@gmail.com,9012345678,Lead
+5,Rohan Mehta,rohan202@gmail.com,9871234567,Active
+6,Kavya Shah,kavya88@gmail.com,9988123456,VIP
+7,Arjun Joshi,arjun007@gmail.com,9765432109,Lead
+8,Sneha Desai,sneha999@gmail.com,9098765432,Active
+9,Vikram Nair,vikram11@gmail.com,9345678901,VIP
+10,Ananya Rao,ananya25@gmail.com,9876001122,Lead
+11,Harsh Patel,harsh123@gmail.com,9812345678,Active
+12,Meera Iyer,meera456@gmail.com,9922334455,VIP
+13,Karan Malhotra,karan007@gmail.com,9789012345,Lead
+14,Pooja Kapoor,pooja22@gmail.com,9898989898,Active
+15,Dev Shah,dev001@gmail.com,9700011223,VIP
+16,John Smith,johnsmith123@gmail.com,7832763520,Lead
